@@ -12,5 +12,7 @@ func main() {
 	fmt.Println("Day 1.2:", day1.Part2())
 
 	fmt.Println("Day 2.1:", day2.Part1())
-	// fmt.Println("Day 2.2:", day2.Part2())
+
+	// Couldn't get this working
+	fmt.Println("Day 2.2:", day2.Part2())
 }
